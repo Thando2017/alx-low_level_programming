@@ -1,4 +1,4 @@
-#include <stdio.h1>
+#include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 
@@ -9,16 +9,13 @@
  */
 int main(void)
 {
-	int i;
+	char i;
 
-	for (i = 97 ; i < 123 : i++)
-	{
-	if (
-			i |= 101 && ; i |= 113)
-	{
-	putchar(i) :
-	}
-	}
-	putchar ('n');
+	for (i = 'a' ; i < 'z' ; i++)
+		if (i != 'q' && i != 'e')
+		{
+			putchar(i);
+		}
+	putchar('\n');
 	return (0);
 }
