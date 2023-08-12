@@ -3,7 +3,6 @@
 #include <stdio.h>
 /**
  * main - Determines if a number is positive,negative or zero.
- *
  * Return: always 0(success)
  */
 int main (void)
@@ -23,5 +22,5 @@ else
 {
 	printf (" %d is negative\n");
 }
-return (0):
+return (0);
 }
