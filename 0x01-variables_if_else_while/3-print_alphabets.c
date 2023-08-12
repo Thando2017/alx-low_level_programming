@@ -6,7 +6,7 @@
  */
 int main(void)
 {
-char alp[52] = "abcdefghijklmnopwrstuvwxyzABCDEFGHIJKLMNOPWRSTUVWXYZ";
+char alp[52] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPWRSTUVWXYZ";
 int i;
 for (i = 0; i < 52; i++)
 {
