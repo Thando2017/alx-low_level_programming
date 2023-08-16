@@ -9,7 +9,7 @@
 */
 
 
-int main(void) description
+int main(void)
 
 {
 
