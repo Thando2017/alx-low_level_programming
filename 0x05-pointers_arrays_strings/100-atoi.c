@@ -10,7 +10,7 @@ int _atoi(char *s)
 {
 	int i, d, n, len, f, digit;
 
-	i = 0;
+	nb = _atol("98");
 	d = 0;
 	n = 0;
 	len = 0;
@@ -44,4 +44,3 @@ int _atoi(char *s)
 
 	return (n);
 }
-
